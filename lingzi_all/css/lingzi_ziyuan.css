@@ -1,0 +1,132 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.allto{
+	width: 1146px;
+	height:740px;
+	margin: 0 auto;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+body{
+	width: 1600px;
+	height:740px;
+	background-color: #09070e;
+	position: relative;
+}
+.head{
+	width: 100%;
+	height: 46px;
+	background-color: #010102;
+}
+.head .wenben{
+	height: 46px;
+}
+.wenben a{
+	font: 14px "Microsoft Yahei";
+	color: #fff;
+	line-height: 46px;
+	text-indent: 230px;
+	margin-right: 38px;
+	text-decoration: none;
+}
+.wenben input{
+	width: 13px;
+	height: 18px;
+	border: none;
+	background-image: url(img/lz/bg1_1.png);
+	vertical-align: middle;
+	background-color: #010102;
+}
+.body{
+	height: 570px;
+	background-color: #f5f5f5;
+	overflow: hidden;
+}
+.by_h{
+	width: 106px;
+	height: 26px;
+	background-color: #cb00da;
+	font: 15px "Microsoft Yahei";
+	color: #fff;
+	line-height: 26px;
+	text-align: center;
+	margin-top: 30px;
+	margin-left: 30px;
+}
+.by_text{
+	width: 1080px;
+	height: 445px;
+	background-color: #fff;
+	box-shadow: 1px 1px 30px #ADADAD;
+	margin-left: 30px;
+	text-indent: 30px;
+	overflow: hidden;
+}
+.by_text p{
+	font: 12px "Microsoft Yahei";
+}
+.by_text .p1{
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	text-indent: 30px;
+	margin-top: 30px;
+}
+.by_text .p2{
+	margin-top: 10px;
+}
+.by_text .p3{
+	font: 16px "Microsoft Yahei";
+    color: #f16145;
+    margin-top: 15px;
+}
+.by_text .p4{
+	margin-top: 15px;
+}
+.by_text .p7{
+	font: 16px "Microsoft Yahei";
+    color: #f16145;
+    margin-top: 15px;
+}
+.by_text .p8{
+	margin-top: 10px;
+}
+.by_text .p10{
+	font: 16px "Microsoft Yahei";
+    color: #f16145;
+    margin-top: 15px;
+}
+.by_text .p11{
+	margin-top: 10px;
+}
+.by_text .p15{
+	font:bold 12px "Microsoft Yahei";
+	color: #000;
+    margin-top: 15px;
+}
+.footer{
+	width: 100%;
+	height: 78px;
+	margin-top:80px;
+	background-color: #f4f4f4;
+}
+.ft_1{
+	height: 78px;
+}
+.ft_1 a{
+	font: 14px "Microsoft Yahei";
+	color: #666666;
+	line-height: 78px;
+	margin-right: 12px;
+	text-decoration: none;
+}
+.ft_1 span{
+	font: 13px "Microsoft Yahei";
+	color: #999999;
+	line-height: 78px;
+	margin-left: 20px;
+}

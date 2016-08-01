@@ -1,0 +1,223 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.allto{
+	width: 1146px;
+	height: 970px;
+	margin: 0 auto;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+body{
+	width: 1600px;
+	height: 970px;
+	background-color: #0e0c18;
+}
+.head{
+	width: 100%;
+	height: 46px;
+	background-color: #010102;
+}
+.head .wenben{
+	height: 46px;
+}
+.wenben a{
+	font: 14px "Microsoft Yahei";
+	color: #fff;
+	line-height: 46px;
+	text-indent: 230px;
+	margin-right: 38px;
+	text-decoration: none;
+}
+.wenben input{
+	width: 13px;
+	height: 18px;
+	border: none;
+	background-image: url(img/lz/bg1_1.png);
+	vertical-align: middle;
+	background-color: #010102;
+}
+.body1{
+	height: 820px;
+	background-color: #f5f5f5;
+	position: relative;
+}
+.liuyan{
+	width: 108px;
+	height: 34px;
+	background-color: #cb00da;
+	font: 20px "Microsoft Yahei";
+	color: #fff;
+	position: absolute;
+	top: 86px;
+	left: 325px;
+	text-align: center;
+	line-height: 34px;
+}
+.neirong{
+	width: 492px;
+	height: 614px;
+	background-color: #fff;
+	position: absolute;
+	top: 120px;
+	left: 325px;
+	box-shadow:  1px 10px 40px 0px #666;	
+}
+.nicn{
+	width: 300px;
+	height: 33px;
+	margin-left: 50px;
+	margin-top: 60px;
+}
+span{
+	font: bold 14px "宋体";
+	color: #000;
+	line-height: 33px;
+}
+.nicn input{
+	width: 195px;
+	height: 33px;
+	background-color: #ebebeb;
+	border: none;
+}
+.youx{
+	width: 300px;
+	height: 33px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.youx input{
+	width: 195px;
+	height: 33px;
+	background-color: #ebebeb;
+	border: none;
+}
+.from{
+	width: 300px;
+	height: 33px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.from select{
+	width: 82px;
+	height: 33px;
+	background-color: #ebebeb;
+}
+.lasty{
+	width: 300px;
+	height: 33px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.lasty input{
+	font: bold 14px "宋体";
+	color: #000;
+	line-height: 33px;
+	background-color: #ebebeb;
+	border: none;
+	margin-left: 10px;
+}
+.biaot{
+	width: 300px;
+	height: 33px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.biaot input{
+	width: 195px;
+	height: 33px;
+	background-color: #ebebeb;
+	border: none;
+}
+.inside{
+	width: 440px;
+	height: 103px;
+	margin-left: 50px;
+	margin-top: 10px;
+	position: relative;
+}
+.inside o{
+	font: bold 14px "宋体";
+	color: #000;
+	position: absolute;
+	top: 1px;
+	left: 0;
+}
+.inside textarea{
+	width: 328px;
+	height: 103px;
+	background-color: #ebebeb;
+	border: none;
+	position: absolute;
+	top: 0;
+	left: 79px;
+}
+.yanz{
+	width: 325px;
+	height: 33px;
+	margin-left: 50px;
+	margin-top: 10px;
+}
+.yanz input{
+	width: 74px;
+	height: 33px;
+	background-color: #ebebeb;
+	border: none;
+	margin-left: 14px;
+}
+.yanz img{
+	width: 35px;
+	height: 33px;
+	background-color: #aea9a9;
+	vertical-align: middle;
+	margin-top: -1px;
+}
+.yanz a{
+	font: 14px "宋体";
+	color: #0027b8;
+	line-height: 33px;
+}
+.anniu{
+	width: 85px;
+	height: 33px;
+	font: 16px "宋体";
+	color: #fff;
+	border: none;
+	background-color: #70007a;
+	position: absolute;
+	bottom: 94px;
+	right: 50px;
+}
+.end{
+	font: 14px "宋体";
+	color: #0027b8;
+	position: absolute;
+	bottom: 62px;
+	right: 50px;
+}
+.footer{
+	width: 100%;
+	height: 78px;
+	margin-top: 40px;
+	background-color: #f4f4f4;
+}
+.ft_1{
+	height: 78px;
+}
+.ft_1 a{
+	font: 14px "Microsoft Yahei";
+	color: #666666;
+	line-height: 78px;
+	margin-right: 12px;
+	text-decoration: none;
+}
+.ft_1 span{
+	font: 13px "Microsoft Yahei";
+	color: #999999;
+	line-height: 78px;
+	margin-left: 20px;
+}

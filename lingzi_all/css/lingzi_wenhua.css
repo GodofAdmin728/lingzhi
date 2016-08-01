@@ -1,0 +1,242 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.allto{
+	width: 1146px;
+	height: 1200px;
+	margin: 0 auto;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+body{
+	width: 1600px;
+	height: 1200px;
+	background-color: #09070e;
+}
+.head{
+	width: 100%;
+	height: 46px;
+	background-color: #010102;
+}
+.head .wenben{
+	height: 46px;
+}
+.wenben a{
+	font: 14px "Microsoft Yahei";
+	color: #fff;
+	line-height: 46px;
+	text-indent: 230px;
+	margin-right: 38px;
+	text-decoration: none;
+}
+.wenben input{
+	width: 13px;
+	height: 18px;
+	border: none;
+	background-image: url(img/lz/bg1_1.png);
+	vertical-align: middle;
+	background-color: #010102;
+}
+.biaot{
+	height: 25px;
+	border-bottom:  1px solid #1f1a2e;
+	font: 18px "Microsoft Yahei";
+	color: #fff;
+	margin-top: 40px;
+}
+.body{
+	height: 888px;
+	background-color: #fff;
+	margin-top: 40px;
+	position: relative;
+}
+.body .lf1{
+	position: absolute;
+	top: 20px;
+	left: 15px;
+}
+.body .lf2{
+	position: absolute;
+	top: 119px;
+	left: 44px;
+}
+.body .lf3{
+	position: absolute;
+	top: 231px;
+	left: 44px;
+}
+.body .lf4{
+	position: absolute;
+	top: 425px;
+	left: 44px;
+}
+.p1{
+	width: 1080px;
+	height: 58px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	top: 40px;
+	left: 42px;
+}
+.p2{
+	width: 1080px;
+	height: 30px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	top: 174px;
+	left: 42px;
+}
+.p3{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	top: 286px;
+	left: 42px;
+}
+.p4{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	top: 310px;
+	left: 42px;
+}
+.p5{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	top: 335px;
+	left: 42px;
+}
+.p6{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	top: 360px;
+	left: 42px;
+}
+.p7{
+	width: 1080px;
+	height: 20px;
+	font:bold 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 390px;
+	left: 42px;
+}
+.p8{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 365px;
+	left: 42px;
+}
+.p9{
+	width: 1080px;
+	height: 20px;
+	font:bold 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 305px;
+	left: 42px;
+}
+.p10{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 280px;
+	left: 42px;
+}
+.p11{
+	width: 1080px;
+	height: 20px;
+	font:bold 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 220px;
+	left: 42px;
+}
+.p12{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 195px;
+	left: 42px;
+}
+.p13{
+	width: 1080px;
+	height: 20px;
+	font:bold 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 142px;
+	left: 42px;
+}
+.p14{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 120px;
+	left: 42px;
+}
+.p15{
+	width: 1080px;
+	height: 20px;
+	font:bold 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 65px;
+	left: 42px;
+}
+.p16{
+	width: 1080px;
+	height: 20px;
+	font: 16px "Microsoft Yahei";
+	color: #000;
+	position: absolute;
+	bottom: 44px;
+	left: 42px;
+}
+.footer{
+	width: 100%;
+	height: 78px;
+	margin-top:80px;
+	background-color: #f4f4f4;
+}
+.ft_1{
+	height: 78px;
+}
+.ft_1 a{
+	font: 14px "Microsoft Yahei";
+	color: #666666;
+	line-height: 78px;
+	margin-right: 12px;
+	text-decoration: none;
+}
+.ft_1 span{
+	font: 13px "Microsoft Yahei";
+	color: #999999;
+	line-height: 78px;
+	margin-left: 20px;
+}

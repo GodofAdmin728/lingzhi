@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.allto{
+	width: 1146px;
+	height: 710px;
+	margin: 0 auto;
+}
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+body{
+	width: 1600px;
+	height: 710px;
+	background-color: #0e0c18;
+}
+.head{
+	width: 100%;
+	height: 46px;
+	background-color: #010102;
+}
+.head .wenben{
+	height: 46px;
+}
+.wenben a{
+	font: 14px "Microsoft Yahei";
+	color: #fff;
+	line-height: 46px;
+	text-indent: 230px;
+	margin-right: 38px;
+	text-decoration: none;
+}
+.wenben input{
+	width: 13px;
+	height: 18px;
+	border: none;
+	background-image: url(img/lz/bg1_1.png);
+	vertical-align: middle;
+	background-color: #010102;
+}
+.body{
+	height: 538px;
+	background-color: #fff;
+	position: relative;
+	margin-top: 20px;
+}
+.biaot{
+	width: 105px;
+	height: 30px;
+	font: bold 15px "Microsoft Yahei";
+	color: #fff;
+	background-color:  #c900d8;
+	line-height: 30px;
+	text-align: center;
+	position: absolute;
+	top: 37px;
+	left: 40px;
+}
+.body img{
+	width: 1116px;
+	height: 439px;
+	position: absolute;
+	top: 60px;
+	left: 27px;
+}
+.footer{
+	width: 100%;
+	height: 78px;
+	margin-top: 40px;
+	background-color: #f4f4f4;
+}
+.ft_1{
+	height: 78px;
+}
+.ft_1 a{
+	font: 14px "Microsoft Yahei";
+	color: #666666;
+	line-height: 78px;
+	margin-right: 12px;
+	text-decoration: none;
+}
+.ft_1 span{
+	font: 13px "Microsoft Yahei";
+	color: #999999;
+	line-height: 78px;
+	margin-left: 20px;
+}
